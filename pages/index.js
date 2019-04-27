@@ -8,7 +8,7 @@ const Index = () => (
     <Link href="/signin">
       <a>Sign In</a>
     </Link>
-    <p>Hello Next.js</p>
+    <div className={css.example}>Hello World!</div>
   </div>
 )
 
