@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import CommonLayout from '../components/CommonLayout.js'
 
 const Index = () => (
   <div>
